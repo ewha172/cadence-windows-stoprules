@@ -1,0 +1,1 @@
+# cadence-windows-stoprules
